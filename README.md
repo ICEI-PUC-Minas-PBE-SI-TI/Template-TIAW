@@ -2,7 +2,7 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
+`DISCIPLINA: Trabalho Interdisciplinar Aplicações Web Front-End`
 
 `Xº semestre/ANO`
 
